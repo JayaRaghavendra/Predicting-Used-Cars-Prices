@@ -81,7 +81,7 @@
 - In our current project data cleaning plays a major role
 - I have dropped the data rows that consist of null values
 - After looking at the box plots, I have seen that too many outliers are restricting the plot structure so removed some of the data cells with higher value to avoid model underfitting.
-- Example: Removing the top 75 outliers from Kilometers_Driven column.
+- Example: Removing the top 50 outliers from Kilometers_Driven column.
 ![](https://i.imgur.com/CJjd4Fh.jpg)
 
 ### 2.5 Data Visualization
@@ -125,7 +125,6 @@
 - Obtain the predicted values using model. Predict () function and store the values in a variable.
 - As the function is a regression model, r2_score will helps us find the accuracy of our model. Our model will be much accurate when the r2_score is nearer to 1.0
 
-![](https://i.imgur.com/ewi3s04.png)
 
 ---
 ### 4.1 Conclusion
