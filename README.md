@@ -1,7 +1,7 @@
 # MachineHack_Predicting_Used_Cars_Price
 - Predicting the prices of a Used Cars using SciKit Learn Supervised ML techniques
 
-### Jaya Raghavendra - [jay.raghav333@gmail.com](mailto:paluvadisuryavamsi@gmail.com) - 7036563656
+### Jaya Raghavendra - [jay.raghav333@gmail.com](mailto:jay.raghav333@gmail.com) - 7036563656
 
 ![](https://i.imgur.com/IhmfRed.png)
 ---
